@@ -5,4 +5,4 @@
 ||ometv.chat^$important
 ||cdn.ometv.chat^$important
 ||ometv.com^$important
-https://www.monkey.app^$important
+||monkey.app^$important
